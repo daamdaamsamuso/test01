@@ -23,6 +23,7 @@ namespace test01
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("aaa");
         }
     }
 }
